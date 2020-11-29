@@ -1,5 +1,7 @@
 ![hero](./hero.png)
 
+![truth](./truth.png)
+
 ## todo
 * start here -> [hummingbirdsv](https://github.com/synfonaut/hummingbird)
 * a518aa91aff05f9c3daffbe4130b33f327c5a67ded3490961ef2b3f82f829d67
