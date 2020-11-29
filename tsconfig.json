@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "target": "es6",
+        "module": "commonjs",
+        "outDir": "dist",
+        // "strict": true,
+        "noImplicitAny": false,
+        "sourceMap": true, /* Generates corresponding '.map' file. */
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true
+    },
+    "compileOnSave": true,
+    "include": [
+        "src",
+        "index.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

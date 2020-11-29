@@ -1,0 +1,16 @@
+{
+  "name": "e8-ultra-monolith",
+  "version": "21.e.8",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hummingbird-bitcoin": "^1.0.2"
+  }
+}
